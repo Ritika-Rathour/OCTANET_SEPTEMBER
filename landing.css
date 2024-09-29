@@ -1,0 +1,63 @@
+.nav{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: antiquewhite;
+}
+
+#portfolio{
+  size: 50px;
+  text-align: center;
+  color:black;
+  font-style:oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 45px;
+}
+
+#home{
+  text-align: center;
+  font-style: italic;
+  color:#808080;
+}
+
+#About{
+  text-decoration: wavy;
+  border-style:ridge ;
+  border-color: beige;
+  border-width: 4px;
+  border-radius: 15px;
+  text-align:center;
+}
+
+body{
+  background-image: url(https://img.freepik.com/premium-vector/abstract-template-design-blue-curved-paper-cut-background_78474-1338.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-position: cover;
+  background-repeat: no-repeat;
+}
+
+{box-sizing: border-box}
+
+.container {
+  width: 65%;
+  align-content: justify;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.sql {width: 85%; background-color: #f44336;}
+.data_structures{width: 65%; background-color:blueviolet;}
+.java{width:78%;background-color: aquamarine;}
+.c{width:75%;background-color: aqua;}
+
+#contact{
+  text-align: right;
+  color:aliceblue
+  }
